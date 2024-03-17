@@ -1,16 +1,23 @@
-### Hi there 👋
+# Veysel Kaan Bati 👋
 
-<!--
-**vkbati/vkbati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a computational linguist with a passion for Natural Language Processing (NLP) and Artificial Intelligence (AI). I love exploring new technologies and leveraging them to solve real-life problems. 
 
-Here are some ideas to get you started:
+- 📚 I’m currently pursuing my Master's degree at the University of Konstanz
+- 📫 How to reach me: vkbati@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Programming Languages: Python, R, Praat, Html
+- Frameworks & Libraries: Keras, Pytorch, Tensorflow, SpaCy, NLTK, Stanza, Pandas, NumPy
+
+
+🔍 My research interests include:
+- NLP algorithms and models
+- Machine Learning applications in linguistics
+- Text generation and summarization
+- Sentiment analysis
+- Dialogue systems and conversational agents
+- Machine translation
+
+  
+Feel free to reach out! I'm always open to interesting conversations and collaborations. 😊
