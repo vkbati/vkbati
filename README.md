@@ -8,7 +8,7 @@ I'm a computational linguist with a passion for Natural Language Processing (NLP
 
 ## Skills
 - Programming Languages: Python, R, Praat, Html
-- Frameworks & Libraries: Keras, Pytorch, Tensorflow, SpaCy, NLTK, Stanza, Pandas, NumPy
+- Frameworks & Libraries: Huggingface, Keras, Pytorch, Tensorflow, SpaCy, NLTK, Stanza, Pandas, NumPy
 
 
 🔍 My research interests include:
