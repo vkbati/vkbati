@@ -1,4 +1,4 @@
-#Kaan Bati 👋
+# Kaan Bati 👋
 
 ## About Me
 I'm a computational linguist with a passion for Natural Language Processing (NLP) and Artificial Intelligence (AI). I love exploring new technologies and leveraging them to solve real-life problems. 
